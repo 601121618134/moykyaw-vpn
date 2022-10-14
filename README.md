@@ -1,0 +1,2 @@
+# moykyaw-vpn
+vpn up
